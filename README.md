@@ -34,5 +34,8 @@ If there are steps to run the code list them as follows:
 2. Run methods. Point people towards the folder with methods. [the methods directory](/methods)
 3. Evaluate. Point people towards the folder with evaluation functions [the evaluation directory](/evaluation)
 
+# Notes #
 
 To see more tips on README's see [here](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
+
+SOMETHING TO NOTE: Readmes are incredibly sensitive to spaces, if you are not sure why something isn't working double check the example and make sure you have the spacing right. 
