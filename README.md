@@ -39,3 +39,9 @@ If there are steps to run the code list them as follows:
 To see more tips on README's see [here](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
 
 SOMETHING TO NOTE: Readmes are incredibly sensitive to spaces, if you are not sure why something isn't working double check the example and make sure you have the spacing right. 
+
+Here is an example code block:
+
+```
+mvn dependency:build-classpath -Dmdep.outputFile=classpath.out
+```
