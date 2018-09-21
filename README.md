@@ -1,10 +1,10 @@
-# SRLGithubTemplate
+# SRLGithubTemplate #
 
 This is a template for other people to create their projects in this lab github. 
 
-##Start Template##
+## Start Template ##
 
-#Project Description# 
+# Project Description # 
 
 The goal of this project is to do. 
 
@@ -35,3 +35,4 @@ If there are steps to run the code list them as follows:
 3. Evaluate. Point people towards the folder with evaluation functions [the evaluation directory](/evaluation)
 
 
+To see more tips on README's see [here](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
