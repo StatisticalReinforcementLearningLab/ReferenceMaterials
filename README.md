@@ -5,11 +5,6 @@ This is a template for other people to create their projects in this lab github.
 # Start Template #
 
 ## Project Description # #
-
-The goal of this project is to do. 
-
-
-## Code Description ##
 This project includes the code needed to reproduce the results in the paper: 
 or 
 This project includes the code needed to reproduce the results in the project 
@@ -24,6 +19,13 @@ booktitle = {Best Conference},
 year = {Year}}
 ```
 
+
+
+
+The goal of this project is to do. 
+
+
+## Code Description ##
 
 If there are steps to run the code list them as follows: 
 
