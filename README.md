@@ -2,9 +2,9 @@
 
 This is a template for other people to create their projects in this lab github. 
 
-##Start Template
+##Start Template##
 
-#Project Description 
+#Project Description# 
 
 The goal of this project is to do. 
 
