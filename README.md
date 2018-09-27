@@ -2,8 +2,6 @@
 
 This is a template for other people to create their projects in this lab github. 
 
-# Start Template #
-
 ## Project Description # #
 This project includes the code needed to reproduce the results in the paper: 
 or 
@@ -18,9 +16,6 @@ title = {Amazing Paper},
 booktitle = {Best Conference},
 year = {Year}}
 ```
-
-
-
 
 The goal of this project is to do. 
 
