@@ -1,8 +1,7 @@
 # MRT data curation document #
 
-⋅⋅1. Ordered sub-list
 
-1. Data Pre-processing 
+D. Data Pre-processing 
 ..a.	Organize raw data. 
 ..b.	Process raw data into data frames for planned analyses.
 ..c.	Create an R data workspace file that contains all data frames for the planned analyses. (ex. workspace.csv.R)
