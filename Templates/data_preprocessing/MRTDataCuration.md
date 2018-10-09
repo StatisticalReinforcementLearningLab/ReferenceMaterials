@@ -1,6 +1,6 @@
 # MRT data curation document #
 
-
+⋅⋅1. Ordered sub-list
 
 D.	Data Pre-processing 
 ..a.	Organize raw data. 
