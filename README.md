@@ -1,0 +1,1 @@
+This folder has reference materials to guide your participation in this gituhub. For example, Templates has template readmes and directory organization. The data prep document tells you how to do ASHLEy fill in. 
