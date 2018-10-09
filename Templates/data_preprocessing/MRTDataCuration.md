@@ -1,4 +1,4 @@
-# MRT data curation document #
+# Template for MRT data curation #
 
 Example below
 
